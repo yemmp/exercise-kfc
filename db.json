@@ -1,0 +1,188 @@
+{ "estados":[
+    {
+      "name": "Minas Gerais",
+      "lojas": [
+        { "loja": "KFC XXX", "endereço": "Rua X, Bairro Y, Cidade Z, Numero 00" }
+      ]
+    },
+    {
+      "name": "Alagoas",
+      "lojas": [
+        { "loja": "KFC XXX", "endereço": "Rua X, Bairro Y, Cidade Z, Numero 00" }
+      ]
+    },
+    {
+      "name": "Bahia",
+      "lojas": [
+        { "loja": "KFC XXX", "endereço": "Rua X, Bairro Y, Cidade Z, Numero 00" }
+      ]
+    },
+    {
+      "name": "Ceará",
+      "lojas": [
+        { "loja": "KFC XXX", "endereço": "Rua X, Bairro Y, Cidade Z, Numero 00" }
+      ]
+    }
+  ],
+  "produtos":[
+    {
+        "img_url": "https://cupons.kfcbrasil.com.br/cupons/wp-content/uploads/2024/04/7cupom-externob.png",
+        "name": "Balde de Frango 4 Peças",
+        "includes": "Balde",
+        "price": "23,90"
+    },
+    {
+        "img_url": "https://cupons.kfcbrasil.com.br/cupons/wp-content/uploads/2024/04/7cupom-externob.png",
+        "name": "Balde de Frango 8 Peças",
+        "includes": "Balde",
+        "price": "44,90"
+    },
+    {
+        "img_url":"https://cupons.kfcbrasil.com.br/cupons/wp-content/uploads/2024/04/7cupom-externob.png",
+        "name": "Boneless com 15 Peças",
+        "includes": "Combinações KFC",
+        "price": "21,90"
+    },
+    {
+        "img_url": "https://cupons.kfcbrasil.com.br/cupons/wp-content/uploads/2024/04/7cupom-externob.png",
+        "name": "Sanduíche de Filé com Cheddar",
+        "includes": "Combinações KFC",
+        "price": "16,90"
+    },
+    {
+        "img_url": "https://cupons.kfcbrasil.com.br/cupons/wp-content/uploads/2024/04/7cupom-externob.png",
+        "name": "2 Sanduíche de Frango com Cheddar",
+        "includes": "Combinações KFC",
+        "price": "18,90*"
+    },
+    {
+        "img_url": "https://cupons.kfcbrasil.com.br/cupons/wp-content/uploads/2024/04/7cupom-externob.png",
+        "name": "Super Amoplo com 40 Nuggets",
+        "includes": "Combinações KFC",
+        "price": "28,90"
+    },
+    {
+        "img_url": "https://cupons.kfcbrasil.com.br/cupons/wp-content/uploads/2024/04/7cupom-externob.png",
+        "name": "Balde de Frango 4 Peças",
+        "includes": "Balde",
+        "price": "23,90"
+    },
+    {
+        "img_url": "https://cupons.kfcbrasil.com.br/cupons/wp-content/uploads/2024/04/7cupom-externob.png",
+        "name": "Balde de Frango 8 Peças",
+        "includes": "Balde",
+        "price": "44,90"
+    },
+    {
+        "img_url":"https://cupons.kfcbrasil.com.br/cupons/wp-content/uploads/2024/04/7cupom-externob.png",
+        "name": "Boneless com 15 Peças",
+        "includes": "Combinações KFC",
+        "price": "21,90"
+    },
+    {
+        "img_url": "https://cupons.kfcbrasil.com.br/cupons/wp-content/uploads/2024/04/7cupom-externob.png",
+        "name": "Sanduíche de Filé com Cheddar",
+        "includes": "Combinações KFC",
+        "price": "16,90"
+    }, {
+        "img_url": "https://cupons.kfcbrasil.com.br/cupons/wp-content/uploads/2024/04/7cupom-externob.png",
+        "name": "Sanduíche de Peito de Peru com Cheddar",
+        "includes": "Combinações KFC",
+        "price": "16,90"
+    },
+    {
+        "img_url":"https://cupons.kfcbrasil.com.br/cupons/wp-content/uploads/2024/04/7cupom-externob.png",
+        "name": "Refrigerante de 600 ml",
+        "includes": "Combinações KFC",
+        "price": "5,90"
+    },
+    {
+        "img_url": "https://cupons.kfcbrasil.com.br/cupons/wp-content/uploads/2024/04/7cupom-externob.png",
+        "name": "Suco de Laranja de 300 ml",
+        "includes": "Combinações KFC",
+        "price": "5,90"
+    },
+    {
+        "img_url": "https://cupons.kfcbrasil.com.br/cupons/wp-content/uploads/2024/04/7cupom-externob.png",
+        "name": "Chicken Wings com 6 Peças",
+        "includes": "Combinações KFC",
+        "price": "17,90"
+    },
+    {
+        "img_url": "https://cupons.kfcbrasil.com.br/cupons/wp-content/uploads/2024/04/7cupom-externob.png",
+        "name": "Super Amoplo com 40 Nuggets",
+        "includes": "Combinações KFC",
+        "price": "28,90"
+    },
+    {
+        "img_url":"https://cupons.kfcbrasil.com.br/cupons/wp-content/uploads/2024/04/7cupom-externob.png",
+        "name": "Refrigerante de 600 ml",
+        "includes": "Combinações KFC",
+        "price": "5,90"
+    },
+    {
+        "img_url": "https://cupons.kfcbrasil.com.br/cupons/wp-content/uploads/2024/04/7cupom-externob.png",
+        "name": "Suco de Laranja de 300 ml",
+        "includes": "Combinações KFC",
+        "price": "5,90"
+    },
+    {
+        "img_url": "https://cupons.kfcbrasil.com.br/cupons/wp-content/uploads/2024/04/7cupom-externob.png",
+        "name": "Chicken Wings com 6 Peças",
+        "includes": "Combinações KFC",
+        "price": "17,90"
+    },
+    {
+        "img_url": "https://cupons.kfcbrasil.com.br/cupons/wp-content/uploads/2024/04/7cupom-externob.png",
+        "name": "Sanduíche de Peito de Peru com Cheddar",
+        "includes": "Combinações KFC",
+        "price": "16,90"
+    },
+    {
+        "img_url":"https://cupons.kfcbrasil.com.br/cupons/wp-content/uploads/2024/04/7cupom-externob.png",
+        "name": "Refrigerante de 600 ml",
+        "includes": "Combinações KFC",
+        "price": "5,90"
+    }, {
+        "img_url": "https://cupons.kfcbrasil.com.br/cupons/wp-content/uploads/2024/04/7cupom-externob.png",
+        "name": "Suco de Laranja de 300 ml",
+        "includes": "Combinações KFC",
+        "price": "5,90"
+    },
+    {
+        "img_url": "https://cupons.kfcbrasil.com.br/cupons/wp-content/uploads/2024/04/7cupom-externob.png",
+        "name": "Chicken Wings com 6 Peças",
+        "includes": "Combinações KFC",
+        "price": "17,90"
+    },
+    {
+        "img_url": "https://cupons.kfcbrasil.com.br/cupons/wp-content/uploads/2024/04/7cupom-externob.png",
+        "name": "Super Amoplo com 40 Nuggets",
+        "includes": "Combinações KFC",
+        "price": "28,90"
+    },{
+        "img_url": "https://cupons.kfcbrasil.com.br/cupons/wp-content/uploads/2024/04/7cupom-externob.png",
+        "name": "Potato Bites com 4 Peças",
+        "includes": "Combinações KFC",
+        "price": "5,90"
+    },
+    {
+        "img_url":"https://cupons.kfcbrasil.com.br/cupons/wp-content/uploads/2024/04/7cupom-externob.png",
+        "name": "Molhos Extra",
+        "includes": "Combinações KFC",
+        "price": "1,50"
+    },
+    {
+        "img_url":"https://cupons.kfcbrasil.com.br/cupons/wp-content/uploads/2024/04/7cupom-externob.png",
+        "name": "Refrigerante Lata",
+        "includes": "Combinações KFC",
+        "price": "5,90"
+    },
+    {
+        "img_url":"https://cupons.kfcbrasil.com.br/cupons/wp-content/uploads/2024/04/7cupom-externob.png",
+        "name": "Refrigerante Compartilhado",
+        "includes": "Combinações KFC",
+        "price": "9,90"
+    }
+  ]
+}
